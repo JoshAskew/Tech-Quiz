@@ -12,7 +12,7 @@ This is an application that allows a user to test their tech knowledge. The appl
 * [Questions](#questions)
 
 ## Installation
-# If you want the code used to create this profile:
+# If you want the code used to create this application:
 1. **Clone the Repository**:
    Open your terminal and run the following command to clone the repository to your local machine:
 
