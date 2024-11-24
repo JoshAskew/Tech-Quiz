@@ -10,5 +10,10 @@
     "jsx": "react-jsx",
     "strict": true
   },
-  "include": ["**/*.tsx", "**/*.ts", "**/*.js", "**/*.jsx"]
+  "files": [
+    "../client/src/components/Quiz.tsx"
+  ],
+
+  "include": ["**/*.tsx", "**/*.ts", "**/*.js", "**/*.jsx", "component/**/*.ts"]
+  
 }
