@@ -4,6 +4,9 @@
 ## Description
 This is an application that allows a user to test their tech knowledge. The application also contains a component testing suite as well as an end to end suite.
 
+## Walkthrough Video
+✨ [Walkthrough](https://drive.google.com/file/d/1dStDaVlv8MsPqQEgRrCM4VF6fS5d1l3F/view?usp=sharing) ✨
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -34,7 +37,7 @@ This is an application that allows a user to test their tech knowledge. The appl
     npm run start:dev
 ## Usage
 **Locally**: Clone the repository, install the necessary dependencies, and run the application from the command line.
-**Video**: This is a link to a walkthrough video of the testing suites being run: [Walkthrough]()
+**Video**: This is a link to a walkthrough video of the testing suites being run: [Walkthrough](https://drive.google.com/file/d/1dStDaVlv8MsPqQEgRrCM4VF6fS5d1l3F/view?usp=sharing)
 
 ## License
 This project is licensed under the MIT license.
