@@ -41,9 +41,6 @@ This is an application that allows a user to test their tech knowledge. The appl
 
 ## Testing
 
-Here's an updated Testing section for your README that includes Cypress testing details:
-
-Testing
 This project includes comprehensive testing using Cypress for both component and end-to-end (E2E) testing. Below is an overview of the testing setup and how to run the tests.
 
 1. **Install Cypress**
