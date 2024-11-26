@@ -39,6 +39,30 @@ This is an application that allows a user to test their tech knowledge. The appl
 **Locally**: Clone the repository, install the necessary dependencies, and run the application from the command line.
 **Video**: This is a link to a walkthrough video of the testing suites being run: [Walkthrough](https://drive.google.com/file/d/1dStDaVlv8MsPqQEgRrCM4VF6fS5d1l3F/view?usp=sharing)
 
+## Testing
+
+Here's an updated Testing section for your README that includes Cypress testing details:
+
+Testing
+This project includes comprehensive testing using Cypress for both component and end-to-end (E2E) testing. Below is an overview of the testing setup and how to run the tests.
+
+1. **Install Cypress**
+Ensure Cypress is installed as a dev dependency:
+
+    ```bash
+    npm install cypress --save-dev
+
+2. **Open Cypress Test Runner**
+     ```bash
+    npx cypress open
+
+3. **Run Test**
+    Once the Test Runner opens, you can choose to run:
+
+- Component Tests: Tests individual React components in isolation.
+- E2E Tests: Simulates user interactions and ensures the app behaves as expected.
+
+
 ## License
 This project is licensed under the MIT license.
 
